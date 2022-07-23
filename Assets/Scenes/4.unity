@@ -348,10 +348,20 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Cut Nyak Dhien (ejaan lama: Tjoet Nja' Dhien, Lampadang, Kerajaan Aceh,
-    1848 \u2013 Sumedang, Jawa Barat, 6 November 1908;[1] dimakamkan di Gunung Puyuh,
-    Sumedang) adalah seorang Pahlawan Nasional Indonesia dari Aceh yang berjuang
-    melawan Belanda pada masa Perang Aceh.  "
+  m_Text: "Mohammad Yamin : Muhammad Yamin lahir pada tanggal 24 Agustus 1903 di
+    Sawahlunto, Sumatera Barat. Yamin merupakan pahlawan nasional, budayawan, dan
+    aktivis hukum terkenal di Indonesia.\n   \nM. Yamin memiliki pendidikan yang
+    lengkap. Pendidikannya dimulai ketika ia bersekolah di Hollands Indlandsche School
+    (HIS). Ia juga mendapat pendidikan di sekolah guru. M. Yamin juga mengenyam pendidikan
+    di Sekolah Menengah Pertanian Bogor, Sekolah Dokter Hewan Bogor, AMS, hingga
+    sekolah kehakiman (Reeht Hogeschool) Jakarta.\n   \nM. yamin termasuk salah satu
+    pakar hukum dan juga merupakan penyair terkemuka angkatan pujangga baru. Ia banyak
+    menghasilkan karya tulis pada dekade 1920 yang sebagian dari karyanya menggunakan
+    bahasa melayu. Karya-karya tulis M. Yamin diterbitkan dalam jurnal Jong Sumatra.
+    Ia juga merupakan salah satu pelopor puisi modern. M. Yamin banyak menulis buku
+    sejarah dan sastra yang cukup di kenal yaitu  Gajah Mada (1945), Sejarah Peperangan
+    Diponegoro, Tan Malaka(1945) Tanah Air (1922), Indonesia Tumpah Darah (1928),
+    Ken Arok dan Ken Dedes (1934), Revolusi Amerika, (1951)"
 --- !u!222 &445284984
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -495,7 +505,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 13146ae90ab274f47b32899ba59ae299, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a4a8fc893460820498a7fc6a8daec74d, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -582,7 +592,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cut Nyak Dien
+  m_Text: M.Yamin
 --- !u!222 &1045129188
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -348,10 +348,12 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Cut Nyak Dhien (ejaan lama: Tjoet Nja' Dhien, Lampadang, Kerajaan Aceh,
-    1848 \u2013 Sumedang, Jawa Barat, 6 November 1908;[1] dimakamkan di Gunung Puyuh,
-    Sumedang) adalah seorang Pahlawan Nasional Indonesia dari Aceh yang berjuang
-    melawan Belanda pada masa Perang Aceh.  "
+  m_Text: "Sisimangaraja : Patuan Besar Ompu Pulo Batu atau yang lebih dikenal Sisingamangaradja
+    XII adalah raja serta pendeta terakhir masyarakat Batak di Sumatera Utara. \n\nIa
+    turut menjadi pejuang melawan penjajahan Belanda di Sumatera sejak 1878.  Pada
+    1907, ia terbunuh dalam pertempuran oleh pasukan Belanda.  Ia pun dinobatkan
+    sebagai Pahlawan Nasional Indonesia pada 1962 berkat perlawanannya terhadap kolonialisme
+    Belanda."
 --- !u!222 &445284984
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -495,7 +497,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 13146ae90ab274f47b32899ba59ae299, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ed6c7b723fe75cf47b9215b3ea95e7ce, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -582,7 +584,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cut Nyak Dien
+  m_Text: sisimangaraja XII
 --- !u!222 &1045129188
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -348,10 +348,20 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Cut Nyak Dhien (ejaan lama: Tjoet Nja' Dhien, Lampadang, Kerajaan Aceh,
-    1848 \u2013 Sumedang, Jawa Barat, 6 November 1908;[1] dimakamkan di Gunung Puyuh,
-    Sumedang) adalah seorang Pahlawan Nasional Indonesia dari Aceh yang berjuang
-    melawan Belanda pada masa Perang Aceh.  "
+  m_Text: 'Antasari : Pangeran Antasari Pahlawan Nasional Indonesia, yang berasal
+    dari Kalimantan Selatan. Ia berperan penting dalam perang Banjar melawan Belanda.
+
+
+    Atas
+    kepahlawanannya dalam melawan Belanda, Pangeran Antasari dianugerahi gelar Pahlawan
+    Nasional dan Kemerdekaan oleh pemerintah Republik Indonesia melalui SK No. 06/TK/1968.Pangeran
+    Antasari lahir tahun 1809 di Kayu Tangi, Kesultanan Banjar. Beliau meninggal
+    dunia di usia 53 tahun.
+
+
+    Pangeran Antasari wafata pada 11 Oktober 1862 di
+    Kampung Bayan Begok, Sampirang, Barito Utara, Kalimantan Tengah. Lokasi makam
+    pangeran Antasari berada di Jalan. Malkon Temon, Banjarmasin.'
 --- !u!222 &445284984
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -495,7 +505,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 13146ae90ab274f47b32899ba59ae299, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e2edad68bccf4be419a5a3197bcf11e0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -582,7 +592,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Cut Nyak Dien
+  m_Text: Pangeran Antasari
 --- !u!222 &1045129188
 CanvasRenderer:
   m_ObjectHideFlags: 0
